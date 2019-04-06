@@ -10,7 +10,7 @@ a button {
 	font-weight: bold;
 	border: 1px solid #f368e0;
 	
-	transition: 1s all ease;
+	transition: .5s all ease;
 }
 
 button:hover {
@@ -18,5 +18,5 @@ button:hover {
 	color: black;
 	border: 1px solid #ff9ff3;
 	
-	transition: 1s all ease;
+	transition: .5s all ease;
 }
