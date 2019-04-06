@@ -9,10 +9,14 @@ a button {
 	text-transform: uppercase;
 	font-weight: bold;
 	border: 1px solid #f368e0;
+	
+	transition: 1s all ease;
 }
 
 button:hover {
 	background-color: #f368e0;
 	color: black;
 	border: 1px solid #ff9ff3;
+	
+	transition: 1s all ease;
 }
