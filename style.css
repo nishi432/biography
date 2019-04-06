@@ -4,15 +4,15 @@ body {
 
 a button {
 	padding: 5px 25px;
-	background-color: red;
+	background-color: #ff9ff3;
 	color: white;
 	text-transform: uppercase;
 	font-weight: bold;
-	border: 1px solid black;
+	border: 1px solid #f368e0;
 }
 
 button:hover {
-	background-color: white;
+	background-color: #f368e0;
 	color: black;
-	border: 1px solid black;
+	border: 1px solid #ff9ff3;
 }
